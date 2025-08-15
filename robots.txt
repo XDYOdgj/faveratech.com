@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://faveratech.com/sitemap.xml
